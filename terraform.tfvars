@@ -1,0 +1,7 @@
+region          = "ap-south-1"
+vpc_name        = "ansible-vpc"
+vpc_cidr        = "10.0.0.0/16"
+ami             = "ami-00305d2fa3c93abfc"
+key_name        = "ansible_keys"
+my-windows-keys = "ansible_keys"
+instance_type   = "t2.micro"
